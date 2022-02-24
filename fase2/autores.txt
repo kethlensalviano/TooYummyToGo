@@ -1,0 +1,14 @@
+UC5:
+    Número do aluno: 40140 e 51835
+    Nome do aluno: Maria Silva e Kethlen Salviano
+    Horas gastas: 5h
+    
+UC6:
+    Número do aluno: 40140 e 51835
+    Nome do aluno: Maria Silva e Kethlen Salviano
+    Horas gastas: 5h
+    
+UC7:
+    Número do aluno: 40140 e 51835
+    Nome do aluno: Maria Silva e Kethlen Salviano
+    Horas gastas: 5h
